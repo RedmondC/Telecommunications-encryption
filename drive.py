@@ -3,7 +3,7 @@ from pydrive.auth import GoogleAuth
 
 
 class drive:
-    ROOT_ID = "1F8IZGGJyZ9N1ADOPnhLGnFa5CYvZTeWj"
+    ROOT_ID = "FOO"
 
     # creates and uploades a file to google drive
     def create_file(self, file_name, file_content):
